@@ -1,16 +1,49 @@
-# events_app
+# Campus Event Management System
 
-A new Flutter project.
+A cross-platform mobile application for managing campus events, built with Flutter and Firebase.
+
+## About the Project
+
+Campus Event Management System helps students discover campus events, RSVP for events they're interested in, and leave feedback afterward — all from a single cross-platform mobile app.
+
+## Features
+
+- Browse upcoming campus events
+- RSVP to events
+- Submit feedback after attending
+- Real-time data sync with Firebase
+- Cross-platform support (Android & iOS)
+
+## Tech Stack
+
+- **Framework:** Flutter
+- **Language:** Dart
+- **Backend/Database:** Firebase
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```bash
+# Clone the repository
+git clone https://github.com/pabasaraperera10/campus-event-management-system.git
 
-A few resources to get you started if this is your first Flutter project:
+# Navigate to the project directory
+cd campus-event-management-system
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Install dependencies
+flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Connect your Firebase project
+# Add your google-services.json (Android) / GoogleService-Info.plist (iOS)
+
+# Run the app
+flutter run
+```
+
+## Status
+
+Developed as a cross-platform mobile app project.
+
+## Author
+
+**Pabasara Sewwandi**
+GitHub: [@pabasaraperera10](https://github.com/pabasaraperera10)
